@@ -3,12 +3,19 @@
 News Portal application written in Yii2
 
 -Allows registering of users
+
 -Users are registered only if they confirm their email address
+
 -Any user can read the news
+
 -Only registered users can post news
+
 -Has RSS feeds with news (latest 10 ones)
+
 -Lists in frontend latest 10 news also
+
 -News can be saved/viewed as PDF
+
 -Anonymous users cannot post news
 
 
