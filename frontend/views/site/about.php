@@ -10,7 +10,7 @@ $this->title = 'About';
 <div class="site-about">
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <p>News Portal - project by Petrica Nanca - [petrica_nanca@yahoo.com] - CrossOver assignment</p>
+    <p>News Portal - project by Petrica Nanca - [petrica_nanca@yahoo.com] </p>
 
     <p>Skype: petrica_nanca</p>
 
